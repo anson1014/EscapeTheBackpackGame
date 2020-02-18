@@ -6,6 +6,8 @@ Inspired by Getting Over It (Bennett Foddy) gameplay style.
 
 Platform game wih falling mechanics that counters the player's effort to rise through the level.
 
+![](The%20BackPack%20BCGJ%20final//Escape%20the%20Backpack.png)
+
 ![](The%20BackPack%20BCGJ%20final/waterlevel.png)
 
 ![](The%20BackPack%20BCGJ%20final/sandwichlevel.PNG)
